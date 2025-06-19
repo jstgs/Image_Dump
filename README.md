@@ -4,6 +4,11 @@ A lightweight Python-based **Android forensics tool** that uses `adb` to collect
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/1a182906-115f-4fe6-a4f7-c9aa1198ebcd)
+
+
+
 ## 🔍 Features
 
 - ✅ Automatically detects connected Android device via ADB
